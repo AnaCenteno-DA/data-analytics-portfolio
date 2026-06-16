@@ -56,3 +56,9 @@ Business analysis using Power BI on sample dataset that are open source used for
 
 ## 📫 Contact
 LinkedIn: https://www.linkedin.com/in/ana-centeno-tech/
+
+---
+
+## 🔙 Return to Main Profile
+
+[![Back to Profile](https://img.shields.io/badge/Back%20to%20GitHub-Profile-blue?style=for-the-badge)](https://github.com/AnaCenteno-DA))
