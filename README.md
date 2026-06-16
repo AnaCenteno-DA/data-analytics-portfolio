@@ -1,4 +1,3 @@
-# data-analytics-portfolio
 
 # 📊 Data Analytics Portfolio
 
@@ -42,4 +41,4 @@ Business analysis using SQL/Excel on sample dataset.
 ---
 
 ## 📫 Contact
-LinkedIn: [https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/ana-centeno-tech/)
+LinkedIn: (https://www.linkedin.com/in/ana-centeno-tech/)
