@@ -2,7 +2,24 @@
 # 📊 Data Analytics Portfolio
 
 Welcome to my Data Analytics portfolio.  
-Here you will find my projects in Excel, Power BI, and data analysis.
+I build dashboards and analyze data to support business decision-making.
+
+---
+
+## 👩‍💻 About Me
+I am a Data Analyst in training with experience in:
+- Excel data analysis
+- Power BI dashboards
+- SQL data exploration
+
+---
+
+## 🛠️ Tools Used
+- Excel
+- Power BI
+- SQL
+- Tableau
+- Data Visualization
 
 ---
 
@@ -43,15 +60,6 @@ Basic setup and configuration details for the Tableau Public timeline created wi
 
 Description:
 Business analysis using Power BI on sample dataset that are open source used for this project. 
-
----
-
-## 🛠️ Tools Used
-- Excel
-- Power BI
-- SQL
-- Tableau
-- Data Visualization
 
 ---
 
