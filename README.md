@@ -50,6 +50,7 @@ Business analysis using Power BI on sample dataset that are open source used for
 - Excel
 - Power BI
 - SQL
+- Tableau
 - Data Visualization
 
 ---
