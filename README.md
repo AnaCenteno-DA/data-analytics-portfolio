@@ -39,7 +39,7 @@ Basic setup and configuration details for the Tableau Public timeline created wi
 
 ---
 ### 📉 Data Science Job Market Analysis -  Project
-🔗 (https://github.com/AnaCenteno-DA/data-science-job-market-analysis.md)
+🔗 https://github.com/AnaCenteno-DA/data-science-job-market-analysis.md
 
 Description:
 Business analysis using Power BI on sample dataset that are open source used for this project. 
@@ -55,4 +55,4 @@ Business analysis using Power BI on sample dataset that are open source used for
 ---
 
 ## 📫 Contact
-LinkedIn: (https://www.linkedin.com/in/ana-centeno-tech/)
+LinkedIn: https://www.linkedin.com/in/ana-centeno-tech/
