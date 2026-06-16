@@ -25,7 +25,7 @@ Data cleaning, pivot tables, and insights using Excel.
 ---
 
 ### 📉 Northwind Analysis Project
-🔗 https://github.com/TU-USUARIO/NOMBRE-DEL-REPO
+🔗 https://github.com/AnaCenteno-DA/Data_Analysis_with_Northwind_DB
 
 Description:
 Business analysis using SQL/Excel on sample dataset that are open source used in goverment and in Kaggle.
