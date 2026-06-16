@@ -9,7 +9,7 @@ Here you will find my projects in Excel, Power BI, and data analysis.
 ## 📌 🔹 Featured Projects
 
 ### 📈 Sales Dashboard (Power BI)
-🔗 https://github.com/TU-USUARIO/NOMBRE-DEL-REPO
+🔗 [https://github.com/TU-USUARIO/NOMBRE-DEL-REPO](https://github.com/AnaCenteno-DA/Retail_Analytics_Superstore_Dashboard)
 
 Description:
 Interactive dashboard analyzing sales performance by region and product.
@@ -28,7 +28,7 @@ Data cleaning, pivot tables, and insights using Excel.
 🔗 https://github.com/TU-USUARIO/NOMBRE-DEL-REPO
 
 Description:
-Business analysis using SQL/Excel on sample dataset.
+Business analysis using SQL/Excel on sample dataset that are open source used in goverment and in Kaggle.
 
 ---
 
